@@ -1,0 +1,11 @@
+h1 {
+    font-style: italic;
+    color: rgb(4, 4, 109);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2 {
+    color: rgb(255, 247, 4);
+}
+.p1 {
+    background-color: black;
+}
